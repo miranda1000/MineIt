@@ -19,18 +19,18 @@
         <!-- TEST DEPENDENCIES -->
 
         <!--<dependency>
-            <groupId>com.github.rogermiranda1000</groupId>
-            <artifactId>WatchWolf-Tester</artifactId>
-            <version>0.1.19</version>
+            <groupId>dev.watchwolf</groupId>
+            <artifactId>watchwolf-tester</artifactId>
+            <version>0.3.1.1</version>
             <scope>compile</scope>
         </dependency>-->
 
         <dependency>
             <groupId>dev.watchwolf</groupId>
             <artifactId>watchwolf-tester</artifactId>
-            <version>0.2</version>
+            <version>0.3.1.1</version>
             <scope>system</scope>
-            <systemPath>${basedir}/lib/watchwolf-tester-0.2.jar</systemPath>
+            <systemPath>${basedir}/lib/watchwolf-tester-0.3.1.1.jar</systemPath>
         </dependency>
 
         <dependency>
